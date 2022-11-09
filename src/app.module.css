@@ -1,0 +1,137 @@
+
+
+img{
+    height:4rem;
+    width: 4rem;
+    margin-right:1rem;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:85vw;
+    height:40vhvh;
+    background-color: white;
+    margin: 1rem;
+    
+}
+.cardsecond{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 10rem;
+    height:12rem;
+    background-color: white;
+    border-radius: 1rem;
+    
+
+}
+.mainbackground{
+    background-color:rgb(237, 237, 232);
+}
+
+.imagetwo{
+    height:7rem;
+    width:10rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin-bottom: 1rem;
+    filter: invert(100%);
+    
+    /* filter: hue-rotate(90deg); */
+    
+}
+.imageshade{
+    height:7rem;
+    width:10rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin-bottom: 1rem;
+    filter: grayscale(50%);
+
+    
+}
+  
+.viewbutton{
+    border-style:none;
+    border-radius: 0.5rem;
+}
+.riskbutton{
+    border-radius: 0.5rem;
+    border-color: rgb(189, 194, 201);
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.button{
+    border-radius: 0.5rem;
+    border-color: rgb(189, 194, 201);
+    width:1.5rem;
+
+}
+.rightborder{
+    border-right-style: dashed;
+}
+.dangerbutton{
+    border-style: none;
+}
+.overallbg{
+    background-color: rgb(142, 144, 145);
+}
+.heighticon{
+    height:4rem;
+}
+.border{
+    border-style: ridge;
+}
+.secondbox{
+    width:87vw;
+    height:30vh;
+}
+.firstbox{
+    width:13vw;
+    height:100vh;
+    border-right-style:outset;
+}
+.para{
+    color: dimgray;
+}
+.checkbutton{
+    background-color: rgb(245, 241, 118);
+    border-radius: 0.5rem;
+    border-style: none;
+    padding-right: 2rem;
+}
+.imgborder{
+    border-style: groove;
+    width:2.5rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    background-color: gainsboro;
+    margin-right:0.5rem;
+   
+}
+.imgbord{
+    border-style: groove;
+    width:2.5rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    background-color:rgb(240, 71, 41);
+    margin-right:0.5rem;
+   
+}
+/* 
+
+    width:20rem;
+    margin-top:5rem;
+    margin-right: 5rem;
+    text-align: right;
+
+}
+
+.text2{
+    
+    margin-bottom:9rem;
+    margin-left: 15rem;
+    font-size :150px;
+    font-weight: bold;
+    
+
+} */
